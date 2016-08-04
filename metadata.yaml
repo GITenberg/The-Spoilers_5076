@@ -1,0 +1,31 @@
+_repo: The-Spoilers_5076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
+description: Fiction. Set in Alaska during the gold rush.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Movie Books
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political corruption -- Alaska -- Fiction'
+- !lcsh 'Gold mines and mining -- Alaska -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Swedish Americans -- Alaska -- Fiction'
+- GITenberg
+title: The Spoilers
+url: http://www.gutenberg.org/ebooks/5076
